@@ -1,2 +1,2 @@
 Apna college
-Author:apna name
+Author:apna names
